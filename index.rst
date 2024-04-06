@@ -10,6 +10,12 @@ Welcome to Foo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Docs
+====
+
+.. click:: commandcollections.cli:cli
+   :prog: cli
+   :nested: full
 
 
 Indices and tables
